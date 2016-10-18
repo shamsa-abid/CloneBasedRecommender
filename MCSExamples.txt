@@ -1,0 +1,595 @@
+MCSID: 1    Support: 8
+CloneID:  13 131 28
+----------------------------
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+----------------------------
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+----------------------------
+AeroMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+JumpshipMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+SpheroidMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+WarshipMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+AeroMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+JumpshipMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+SpheroidMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+WarshipMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+******************************************************************************************
+MCSID: 14    Support: 8
+CloneID:  123 13 131
+----------------------------
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+setContent D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+----------------------------
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+----------------------------
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\AeroMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\JumpshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\SpheroidMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\WarshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\AeroMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\JumpshipMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\SpheroidMapSet.java
+getCriticalHitTally D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\WarshipMapSet.java
+******************************************************************************************
+MCSID: 5    Support: 7
+CloneID:  142 158 170
+----------------------------
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\ERFlamerHeatHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHeatHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaCannonHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaMFUKWeaponHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHandler.java
+handleIgnitionDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHeatHandler.java
+----------------------------
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\ERFlamerHeatHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHeatHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaCannonHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaMFUKWeaponHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHandler.java
+handleClearDamage D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHeatHandler.java
+----------------------------
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\ERFlamerHeatHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\FlamerHeatHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaCannonHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\PlasmaMFUKWeaponHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHandler.java
+handleSpecialMiss D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\common\weapons\VehicleFlamerHeatHandler.java
+******************************************************************************************
+MCSID: 12    Support: 7
+CloneID:  157 167 182
+----------------------------
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityColoredFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+----------------------------
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityColoredFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+----------------------------
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntityColoredFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+getBrightnessForRender D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+******************************************************************************************
+MCSID: 2    Support: 6
+CloneID:  208 230 233
+----------------------------
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 7    Support: 6
+CloneID:  190 198 210
+----------------------------
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\ArmlessMechMapSet.java
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\MechMapSet.java
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\QuadMapSet.java
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\ArmlessMechMapSet.java
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\MechMapSet.java
+drawHeatControl D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\QuadMapSet.java
+----------------------------
+ArmlessMechMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\ArmlessMechMapSet.java
+MechMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\MechMapSet.java
+QuadMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\QuadMapSet.java
+ArmlessMechMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\ArmlessMechMapSet.java
+MechMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\MechMapSet.java
+QuadMapSet D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\QuadMapSet.java
+----------------------------
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\ArmlessMechMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\MechMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\widget\QuadMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\ArmlessMechMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\MechMapSet.java
+setBackGround D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\widget\QuadMapSet.java
+******************************************************************************************
+MCSID: 8    Support: 6
+CloneID:  199 243 245
+----------------------------
+addNames D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCandyCane.java
+addNames D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockDivineBricks.java
+addNames D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp1.java
+addNames D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp2.java
+addNames D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockMinibricks.java
+addNames D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockSteel.java
+----------------------------
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCandyCane.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockDivineBricks.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp1.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp2.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockMinibricks.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockSteel.java
+----------------------------
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCandyCane.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockDivineBricks.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp1.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockLamp2.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockMinibricks.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\vanilla\BlockSteel.java
+******************************************************************************************
+MCSID: 9    Support: 6
+CloneID:  185 223 244
+----------------------------
+updateFurnaceBlockState D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockGreenlightFurnace.java
+updateFurnaceBlockState D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoonlightFurnace.java
+updateFurnaceBlockState D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoltenFurnace.java
+updateFurnaceBlockState D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockWhitefireFurnace.java
+updateFurnaceBlockState D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockOceanfireFurnace.java
+updateActiveStates D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCoalstoneFurnace.java
+----------------------------
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockGreenlightFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoonlightFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoltenFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockWhitefireFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockOceanfireFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCoalstoneFurnace.java
+----------------------------
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockGreenlightFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoonlightFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockMoltenFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockWhitefireFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\arcana\BlockOceanfireFurnace.java
+@SideOnly D:\72 projects for Repo Building\divinerpg\blocks\iceika\BlockCoalstoneFurnace.java
+******************************************************************************************
+MCSID: 22    Support: 6
+CloneID:  187 208 233
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+arrayHashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 24    Support: 6
+CloneID:  157 167 224
+----------------------------
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+getBrightness D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+----------------------------
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+----------------------------
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\fx\EntityGreenPortalFX.java
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\fx\EntityEdenPortalFX.java
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\fx\EntityMortumPortalFX.java
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\fx\EntitySkythernPortalFX.java
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\fx\EntityWildwoodPortalFX.java
+renderParticle D:\72 projects for Repo Building\divinerpg\entities\vanilla\projectile\EntitySparklerFX.java
+******************************************************************************************
+MCSID: 3    Support: 5
+CloneID:  202 31 315
+----------------------------
+setSearchlightEnabled D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\FiringDisplay.java
+setSearchlightEnabled D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\PhysicalDisplay.java
+setSearchlightEnabled D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\FiringDisplay.java
+setSearchlightEnabled D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\PhysicalDisplay.java
+setSearchlightEnabled D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\TargetingPhaseDisplay.java
+----------------------------
+addBag D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\FiringDisplay.java
+addBag D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\PhysicalDisplay.java
+addBag D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\FiringDisplay.java
+addBag D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\PhysicalDisplay.java
+addBag D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\TargetingPhaseDisplay.java
+----------------------------
+unitSelected D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\FiringDisplay.java
+unitSelected D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\AWT\PhysicalDisplay.java
+unitSelected D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\FiringDisplay.java
+unitSelected D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\PhysicalDisplay.java
+unitSelected D:\72 projects for Repo Building\MegaMek-v0.34.10\src\megamek\client\ui\swing\TargetingPhaseDisplay.java
+******************************************************************************************
+MCSID: 4    Support: 5
+CloneID:  21 287 308
+----------------------------
+DoubleEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+FloatEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+IntEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+LongEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+ObjectEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+----------------------------
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+----------------------------
+java.util.Map#remove D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+java.util.Map#remove D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+java.util.Map#remove D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+java.util.Map#remove D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+java.util.Map#remove D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+******************************************************************************************
+MCSID: 6    Support: 5
+CloneID:  313 345 47
+----------------------------
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+readFromNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+readFromNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+readFromNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+readFromNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+readFromNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+******************************************************************************************
+MCSID: 10    Support: 5
+CloneID:  317 337 98
+----------------------------
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+----------------------------
+space D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+space D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+space D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+space D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+space D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+----------------------------
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+******************************************************************************************
+MCSID: 11    Support: 5
+CloneID:  211 277 56
+----------------------------
+setObjectId D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Button.java
+setObjectId D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\CheckBox.java
+setObjectId D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\ComboBox.java
+setObjectId D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Comment.java
+setObjectId D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Drawing.java
+----------------------------
+getImageData D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Button.java
+getImageData D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\CheckBox.java
+getImageData D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\ComboBox.java
+getImageData D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Comment.java
+getImageData D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Drawing.java
+----------------------------
+setWidth D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Button.java
+setWidth D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\CheckBox.java
+setWidth D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\ComboBox.java
+setWidth D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Comment.java
+setWidth D:\72 projects for Repo Building\jexcelapi\src\jxl\biff\drawing\Drawing.java
+******************************************************************************************
+MCSID: 16    Support: 5
+CloneID:  21 279 287
+----------------------------
+DoubleEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+FloatEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+IntEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+LongEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+ObjectEntry D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+----------------------------
+valueRangeIterator D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+valueRangeIterator D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+valueRangeIterator D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+valueRangeIterator D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+valueRangeIterator D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+----------------------------
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\DoubleIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\FloatIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\IntIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\LongIntTreeMap.java
+java.util.Map#get D:\72 projects for Repo Building\Prefuse-master\src\prefuse\util\collections\ObjectIntTreeMap.java
+******************************************************************************************
+MCSID: 18    Support: 5
+CloneID:  310 313 47
+----------------------------
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+onUpdate D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+******************************************************************************************
+MCSID: 20    Support: 5
+CloneID:  317 75 98
+----------------------------
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+fianchetto D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+----------------------------
+phase3_opening D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+phase3_opening D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+phase3_opening D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+phase3_opening D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+phase3_opening D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+----------------------------
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\progressive\BagaturEvaluator_Progressive.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\bagatur\v12\BagaturV12Evaluator.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Engines\src\bagaturchess\engines\evalmoves\EvaluatorMoves.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator.java
+castling D:\72 projects for Repo Building\BagaturEngine.1.4b\src\LearningAPI\src\bagaturchess\learning\impl\eval\WeightsEvaluator_Fast.java
+******************************************************************************************
+MCSID: 27    Support: 5
+CloneID:  299 310 47
+----------------------------
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+writeToNBT D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+******************************************************************************************
+MCSID: 30    Support: 5
+CloneID:  187 233 354
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 33    Support: 5
+CloneID:  187 233 339
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+HashMapLongInt D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+HashMapLongLong D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+HashMapLongObject D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+HashSetLong D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+HashMapLongObject D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 36    Support: 5
+CloneID:  187 233 267
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+containsKey D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+getAllKeys D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+getAllKeys D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+getAllKeys D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+getAllKeys D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+getAllKeys D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 40    Support: 5
+CloneID:  187 340 354
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+hashCode D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 44    Support: 5
+CloneID:  148 299 47
+----------------------------
+canBlockProjectiles D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+canBlockProjectiles D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+canTeleport D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+canBlockProjectiles D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+canBlockProjectiles D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+onDeath D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+----------------------------
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoBlue.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoGreen.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoPurple.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoYellow.java
+initOthers D:\72 projects for Repo Building\divinerpg\entities\vanilla\EntityAyeracoRed.java
+******************************************************************************************
+MCSID: 48    Support: 5
+CloneID:  187 274 339
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+remove D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+remove D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+remove D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+remove D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+remove D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+HashMapLongInt D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+HashMapLongLong D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+HashMapLongObject D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+HashSetLong D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashSetLong.java
+HashMapLongObject D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+MCSID: 53    Support: 5
+CloneID:  187 325 340
+----------------------------
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+clear D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+putQuick D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+putQuick D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+putQuick D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+putQuick D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+putQuick D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+----------------------------
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongInt.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongLong.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\HashMapLongObject.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Bitboard\src\bagaturchess\bitboard\impl\datastructs\StackLongInt.java
+toString D:\72 projects for Repo Building\BagaturEngine.1.4b\src\Search\src\bagaturchess\search\impl\tpt\HashMapLongObject.java
+******************************************************************************************
+Total MCS reported: 26
